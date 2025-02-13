@@ -21,7 +21,7 @@ After Set Config, Run:
 $ php artisan migrate --seed
 ```
 ```sh
-$ php artisan ket:generate
+$ php artisan key:generate
 ```
 
 Run The Project : 
